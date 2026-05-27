@@ -103,7 +103,8 @@ ISBN 000-000-000-00 000-000-000-00
 
 (C) Оформление. ООО Издательство «Азбука-Аттикус»
 
-<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/4eefac47-8297-4dc3-8ea9-1a3a1d9c48a9" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/b33d1549-9ebe-4ea6-a9bc-e8117b2ca37b" />
+
 
 .
 
