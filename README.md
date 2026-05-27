@@ -155,6 +155,15 @@ A. П. ЧЕХОВ. ИЗБРАННОЕ
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/6364f8b0-c9d2-49b7-a738-0603eaa6ffa5" />
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/8e1d62ac-b0f5-4ed8-848a-99713b8a18e2" />
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/cc4f226b-ff63-4556-be52-6d2b8b928c86" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/bdb32a1f-7ace-4514-abab-70daf4c6bdc2" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/331da8c1-46b2-4f06-bad0-701ff7935456" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/d2ca21e8-8796-4106-940e-84d9618c9ead" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/d333051c-9939-46dd-9bcc-9fb559053d8a" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/7a277041-3206-4255-a094-c7409b127cd2" />
+
+
+
+
 
 
 .
