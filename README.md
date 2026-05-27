@@ -9,7 +9,7 @@
 Способы чтения оригинала:
 Сквозное смысловое чтение — беглое, контроль смыслового и стилистического единства текста.
 Вертикальный просмотр — просмотр, при котором из всей корректуры выделяется отдельный элемент.
-<img width="698" height="486" alt="image" src="https://github.com/user-attachments/assets/ee159c80-1ed4-4d53-9b27-b88d89693ccd" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/ee159c80-1ed4-4d53-9b27-b88d89693ccd" />
 
 
 СПЕЦИФИКАЦИЯ цветовой палитры исправлений
@@ -20,7 +20,7 @@
 Набор — фиолетовый
 Смысловые и фактические ошибки — красный
 Композиционные и логические ошибки — серый
-<img width="734" height="298" alt="image" src="https://github.com/user-attachments/assets/429b0e71-64e6-4769-811d-09537607c68f" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/429b0e71-64e6-4769-811d-09537607c68f" />
 
 
 Вид: литературно-художественное издание, сборник рассказов классика
