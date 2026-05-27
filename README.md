@@ -54,6 +54,10 @@
 
 Целевое назначение: познакомить читателя с творчеством классика
 
+.
+
+.
+
 
 данные титула:
 
@@ -67,7 +71,11 @@
 
 2026
 
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/b4e6009f-8dee-44ec-a924-9b4b6fedebaa" />
 
+.
+
+.
 
 выходнушки:
 
@@ -95,6 +103,11 @@ ISBN 000-000-000-00 000-000-000-00
 
 (C) Оформление. ООО Издательство «Азбука-Аттикус»
 
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/4eefac47-8297-4dc3-8ea9-1a3a1d9c48a9" />
+
+.
+
+.
 
 концевой:
 
@@ -128,10 +141,52 @@ A. П. ЧЕХОВ. ИЗБРАННОЕ
 
 160580, г. Мухосранск, ул. Ленина, д. 80.
 
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/3e002850-7435-4c23-bc43-7295b35a1200" />
+
+.
+
+корректура:
+
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/4cebbfb0-6afd-4de2-b9db-6749e9c10453" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/42d7a424-76e6-46c0-b99e-8038945479ad" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/16b50d23-8ea5-46bd-8d10-b0974b72f408" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/df6d82dc-f909-4fc8-aa43-97d392a17525" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/6364f8b0-c9d2-49b7-a738-0603eaa6ffa5" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/8e1d62ac-b0f5-4ed8-848a-99713b8a18e2" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/cc4f226b-ff63-4556-be52-6d2b8b928c86" />
+
+
+.
+
 
 3 МОДУЛЬ
 
 первый титул экран (1)
+
+Антон павлович чехов
+
+Избранное
+
+Азбука-Аттикус
+
+МОскВА
+
+2026
+
+Об издании — 1, 2, 3, 4
+
+© ООО Издательство «Азбука-Аттикус»
+
+ISBN 000-000-000-000-0
+
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/badc4365-325d-43a0-b605-80ca730a961e" />
+
+.
+
+.
+
+второй титульный экран:
+
 
 УДК 000000
 
@@ -160,7 +215,13 @@ ISBN 000-000-000-0.
 
 © ООО Издательство «Азбука-Аттикус»
 
-второй титул экран (2)
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/2d1fc03d-0719-4e97-94c3-2003794f3ee3" />
+
+.
+
+.
+
+третий титульный экран
 
 Литературно-художественное электронное издание
 
@@ -176,6 +237,12 @@ ISBN 000-000-000-0.
 
 ООО «Азбука-Аттикус», 140090, г. Москва, ул. Кремлевская, д. 6, ст.5
 
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/777b2bf3-ea72-4b56-95a2-65838814bd27" />
+
+.
+
+.
+
 ПАМЯТКА
 
 Приветствуем вас, уважаемый читатель!
@@ -188,3 +255,6 @@ ISBN 000-000-000-0.
 — гиперссылки
 — чтение рассказа вперед/назад
 — скрытая информация
+
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/78b6c513-afcd-48f5-9813-be3b22c68ec4" />
+
